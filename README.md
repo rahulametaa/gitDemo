@@ -1,2 +1,3 @@
 # gitDemo
-This is for learning purpose
+This is for learning purposes
+Adding first line to it
